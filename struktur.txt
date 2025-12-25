@@ -1,0 +1,12 @@
+LCD_Konsole/
+├─ About/
+│  └─ About.xml
+├─ Prefabs/
+│  └─ LCD_Konsole.xml
+├─ Scripts/
+│  └─ LCDKonsoleTitleLock.cs
+├─ Recipes/
+│  └─ LCD_Konsole.xml
+├─ Research/
+│  └─ LCD_Konsole_Research.xml
+└─ README.md
