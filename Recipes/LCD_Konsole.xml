@@ -1,0 +1,35 @@
+<Recipe>
+  <Name>LCD Konsole</Name>
+
+  <!-- Electronics Printer -->
+  <CraftingTable>ElectronicsPrinter</CraftingTable>
+
+  <!-- Stack -->
+  <MaxStack>5</MaxStack>
+
+  <!-- Baukosten (wie Vanilla Floor Console) -->
+  <Inputs>
+    <Item>Steel</Item>
+    <Quantity>20</Quantity>
+  </Inputs>
+
+  <Inputs>
+    <Item>Glass</Item>
+    <Quantity>10</Quantity>
+  </Inputs>
+
+  <Inputs>
+    <Item>Copper</Item>
+    <Quantity>10</Quantity>
+  </Inputs>
+
+  <Inputs>
+    <Item>Electrum</Item>
+    <Quantity>5</Quantity>
+  </Inputs>
+
+  <Output>
+    <Item>LCD Konsole</Item>
+    <Quantity>1</Quantity>
+  </Output>
+</Recipe>
