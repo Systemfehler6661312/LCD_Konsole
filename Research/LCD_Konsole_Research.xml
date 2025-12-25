@@ -1,0 +1,14 @@
+<Research>
+  <Name>LCD Konsole</Name>
+  <Description>
+    Geneigte Konsole mit LCD-Anzeige.
+    Funktioniert wie ein LCD-Display,
+    jedoch ohne Karten.
+  </Description>
+
+  <RequiredResearch>Electronics</RequiredResearch>
+
+  <Unlocks>
+    <Prefab>LCD Konsole</Prefab>
+  </Unlocks>
+</Research>
